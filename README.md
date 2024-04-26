@@ -14,19 +14,19 @@ Final Presentation PPT:
 
 Python Environment requirements.txt:
 
-- [Uploading requirements.txt…]()
+- requirements.txt
 
 Edited Carla Env File:
 
-- [Uploading carla_env.py…]()
+- carla_env.py
 
 Training File:
 
-- [Uploading train.py…]()
+- train.py
 
 Model Evaluation File:
 
-- [Uploading gym_carla_eval.py…]()
+- gym_carla_eval.py
 
 # Using:
 - CARLA
